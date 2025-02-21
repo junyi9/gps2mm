@@ -15,6 +15,7 @@ See the `demo.ipynb` for a tutorial on how to use the function `gps2mm`.
 This tool is based on the data developed by Matt et al. (2024) (https://github.com/MatthewNice/gps2vsl) for GPS-based mile marker estimation. Consider cite the following work from Matthew Nice.
 
 **MiddleWay control**:
+
     @inproceedings{nice2024middle, 
     title={A middle way to traffic enlightenment}, 
     author={Nice, Matthew W and Gunter, George and Ji, Junyi and Zhang, Yuhang and Bunting, Matthew and Barbour, Will and Sprinkle, Jonathan and Work, Daniel B}, 
@@ -25,6 +26,7 @@ This tool is based on the data developed by Matt et al. (2024) (https://github.c
     }
 
 **vsl-following**
+
     @article{nice2023sailing, 
     title={Sailing cavs: Speed-adaptive infrastructure-linked connected and automated vehicles}, 
     author={Nice, Matthew and Bunting, Matthew and Gunter, George and Barbour, William and Sprinkle, Jonathan and Work, Dan}, 
